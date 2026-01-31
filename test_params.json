@@ -1,0 +1,9 @@
+{
+  "clahe_clip": 2.0,
+  "tophat_kernel": 15,
+  "median_kernel": 3,
+  "threshold": 77,
+  "morph_iter": 2,
+  "min_diam": 40,
+  "max_diam": 90
+}
